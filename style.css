@@ -1,0 +1,38 @@
+
+
+/* Dark Theme Button CSS */
+.dark-theme-button {
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 8px 8px;
+    font-size: 20px;
+    border-radius: 6px;
+    transition: all 150ms ease-in-out;
+}
+
+.dark-theme-button:hover {
+    background: white;
+    color: black;
+    cursor: pointer;
+}
+
+.dark {
+    background: black;
+    color: white;
+}
+
+.dark a {
+    color: violet;
+}
+
+.dark button {
+    background: white;
+    color: black;
+}
+
+.dark button:hover {
+    background: black;
+    color: white;
+    cursor: pointer;
+}
