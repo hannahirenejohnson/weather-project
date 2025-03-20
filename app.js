@@ -1,3 +1,13 @@
+// Search Function
+
+
+
+
+// Magic Eight Ball Function - Randomizer
+
+
+// Dark Theme Function
+
 function darkTheme() {
     // let makeItDark = document.querySelector(".container"); // Select the container
     // makeItDark.classList.toggle("dark"); // Toggle the "dark" class on the container
